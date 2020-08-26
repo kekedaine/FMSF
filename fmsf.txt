@@ -836,9 +836,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimmedia.tv/templates/themes/phim/js/ga.js
 ||phimmedia.tv/videojs/*
 ||phimmedia.tv^$xmlhttprequest
-||phimmoi.net/*/vast.
-||phimmoi.net/js/vtlai/movie/adoverlay/*
-||phimmoi.net/js/vtlai/movie/public/pad.js?*
+||phimmoizz.net/*/vast.
+||phimmoizz.net/js/vtlai/movie/adoverlay/*
+||phimmoizz.net/js/vtlai/movie/public/pad.js?*
 ||phimnhanh.net/*.gif
 ||phongcomputer.com^$third-party
 ||photobucket.com/*sonyvietmedia/
